@@ -1,0 +1,8 @@
+# Everwind Trainer runtime dependencies
+pywin32>=306
+pymem>=1.10.0
+requests>=2.31.0
+pyyaml>=6.0.1
+colorama>=0.4.6
+keyboard>=0.13.5
+pyinstaller>=6.3.0
