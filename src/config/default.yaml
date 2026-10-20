@@ -1,0 +1,28 @@
+tick_ms: 50
+overlay_enabled: true
+safe_mode: true
+
+features:
+  godmode:
+    enabled: false
+    hotkey: F1
+  infinite_stamina:
+    enabled: false
+    hotkey: F2
+  infinite_ammo:
+    enabled: false
+    hotkey: F3
+    options:
+      reserve_only: true
+  no_recoil:
+    enabled: false
+    hotkey: F4
+  esp_players:
+    enabled: false
+    hotkey: F5
+    options:
+      max_distance: 300.0
+      color: "#ff3355"
+  teleport_marker:
+    enabled: false
+    hotkey: F6
